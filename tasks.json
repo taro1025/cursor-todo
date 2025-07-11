@@ -1,0 +1,22 @@
+[
+  {
+    "id": "gmail-1",
+    "title": "Reply to project email",
+    "due": "2024-07-01",
+    "labels": ["high-priority"],
+    "source": "gmail"
+  },
+  {
+    "id": "slack-1",
+    "title": "Follow up with design team",
+    "labels": [],
+    "source": "slack"
+  },
+  {
+    "id": "calendar-1",
+    "title": "Prepare for weekly meeting",
+    "due": "2024-07-02",
+    "labels": ["meeting"],
+    "source": "calendar"
+  }
+]
